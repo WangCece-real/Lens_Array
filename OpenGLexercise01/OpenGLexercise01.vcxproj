@@ -182,6 +182,7 @@
     <None Include="LenFrag.frag" />
     <None Include="poslenFrag.frag" />
     <None Include="poslenVert.vert" />
+    <None Include="Readme.md" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

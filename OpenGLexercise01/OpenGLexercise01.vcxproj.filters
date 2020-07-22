@@ -129,5 +129,8 @@
     <None Include="LenFrag.frag" />
     <None Include="poslenFrag.frag" />
     <None Include="poslenVert.vert" />
+    <None Include="Readme.md">
+      <Filter>资源文件</Filter>
+    </None>
   </ItemGroup>
 </Project>
